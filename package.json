@@ -1,0 +1,17 @@
+{
+    "name": "express-app",
+    "version": "1.0.0",
+    "description": "A basic Express.js app",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "cors": "^2.8.5",
+        "dotenv": "^16.4.5",
+        "express": "^4.17.1",
+        "google-auth-library": "^9.7.0",
+        "google-spreadsheet": "^4.1.1"
+    }
+}
